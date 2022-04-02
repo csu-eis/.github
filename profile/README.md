@@ -1,4 +1,4 @@
-## Mobile Systems and Vision Group 👋
+## Edge Intelligence System Group 👋
 
 ### Team introduction
 
