@@ -16,7 +16,10 @@ This research group is devoted to the research on the intelligent application of
 <td align="center"><a href="https://github.com/Deyujonney"><img src="https://avatars.githubusercontent.com/u/38066171?v=4?s=150" width="150px;" alt=""/><br /><sub><b>Deyu Zhang(张德宇)</b></sub></a><br /></td>
 </tr>
 </table>
+
+
 #### PhD
+
 <table>
 <tr>
 <td align="center"><a href="https://github.com/Rorwey"><img src="https://avatars.githubusercontent.com/u/15143806?v=4?s=150" width="150px;" alt=""/><br /><sub><b>Wei Luo(罗威)</b></sub></a><br /></td>
@@ -24,7 +27,10 @@ This research group is devoted to the research on the intelligent application of
 <td align="center"><a href="https://github.com/ZXiiiC"><img src="https://avatars.githubusercontent.com/u/72813202?v=4?s=150" width="150px;" alt=""/><br /><sub><b>Xichen Zhang(张熙铖)</b></sub></a><br /></td>
 <td align="center"><a href="https://github.com/FuchengJia1996"><img src="https://avatars.githubusercontent.com/u/75013397?v=4?s=150" width="150px;" alt=""/><br /><sub><b>Fuchen Jia(贾富城)</b></sub></a><br /></td>
 </table>
+
+
 #### Master
+
 <table>
 <tr>
 <td align="center"><a href="https://github.com/wangbin1002"><img src="https://avatars.githubusercontent.com/u/26839456?v=4?s=150" width="150px;" alt=""/><br /><sub><b>Bin Wang(王斌)</b></sub></a><br /></td>
