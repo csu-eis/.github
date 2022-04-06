@@ -30,8 +30,8 @@ This research group is devoted to the research on the intelligent application of
 #### Master
 <table>
 <tr>
-<td align="center"><a href="https://github.com/wangbin1002"><img src="https://avatars.githubusercontent.com/u/26839456?v=4?s=120" width="150px;" alt=""/><br /><sub><b>Bin Wang(王斌)</b></sub></a><br /></td>
 <td align="center"><a href="https://github.com/wangyanbo1993"><img src="https://avatars.githubusercontent.com/u/53209910?v=4?s=120" width="150px;" alt=""/><br /><sub><b>Yanbo Wang(王彦波)</b></sub></a><br /></td>
+<td align="center"><a href="https://github.com/wangbin1002"><img src="https://avatars.githubusercontent.com/u/26839456?v=4?s=120" width="150px;" alt=""/><br /><sub><b>Bin Wang(王斌)</b></sub></a><br /></td>
 <td align="center"><a href="https://github.com/xumucong"><img src="https://avatars.githubusercontent.com/u/29012078?v=4?s=120" width="150px;" alt=""/><br /><sub><b>Mucong Xu(徐慕聪)</b></sub></a><br /></td>
 <td align="center"><a href="https://github.com/OrangeFower"><img src="https://avatars.githubusercontent.com/u/50410627?v=4?s=120" width="150px;" alt=""/><br /><sub><b>En Cheng(成恩)</b></sub></a><br /></td>
 <td align="center"><a href="https://github.com/BangwenHe"><img src="https://avatars.githubusercontent.com/u/32662175?v=4?s=120" width="150px;" alt=""/><br /><sub><b>Bangwen He(何榜文)</b></sub></a><br /></td>
