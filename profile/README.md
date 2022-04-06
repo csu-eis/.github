@@ -16,8 +16,10 @@ This research group is devoted to the research on the intelligent application of
 <td align="center"><a href="https://github.com/Deyujonney"><img src="https://avatars.githubusercontent.com/u/38066171?v=4?s=120" width="150px;" alt=""/><br /><sub><b>Deyu Zhang(张德宇)</b></sub></a><br /></td>
 </tr>
 </table>
+#### 
 
-#### PhD
+#### Members
+
 <table>
 <tr>
 <td align="center"><a href="https://github.com/ZJR-CSU"><img src="https://avatars.githubusercontent.com/u/25000811?v=4?s=120" width="150px;" alt=""/><br /><sub><b>Jinrui Zhang(章晋睿)</b></sub></a><br /></td>
@@ -27,7 +29,9 @@ This research group is devoted to the research on the intelligent application of
 </tr>
 </table>
 
-#### Master
+
+
+
 <table>
 <tr>
 <td align="center"><a href="https://github.com/wangyanbo1993"><img src="https://avatars.githubusercontent.com/u/53209910?v=4?s=120" width="150px;" alt=""/><br /><sub><b>Yanbo Wang(王彦波)</b></sub></a><br /></td>
@@ -47,4 +51,3 @@ This research group is devoted to the research on the intelligent application of
 <td align="center"><a href="https://github.com/Storagebox828"><img src="https://avatars.githubusercontent.com/u/102845669?v=4?s=120" width="150px;" alt=""/><br /><sub><b>Wenxin Chen(陈温昕)</b></sub></a><br /></td>
 </tr>
 </table>
-
