@@ -1,6 +1,6 @@
-# Edge Intelligence System Group 👋
+# <img src="csu.gif" alt="logo" style="zoom: 5.2%;" /> Edge Intelligence System Group 
 
-**[中文版](https://eis.mobi/index-cn.html)**
+**[中文版](https://eis.mobi/index-cn.html)** 
 
 **[visit our github orgnization](https://github.com/csu-eis)**
 
