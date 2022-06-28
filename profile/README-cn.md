@@ -44,10 +44,9 @@
 <td align="center"><a href="https://github.com/Rorwey"><img src="https://avatars.githubusercontent.com/u/15143806?v=4?s=120" width="150px;" alt=""/><br /><sub><b>Wei Luo(罗威)</b></sub></a><br /></td>
 <td align="center"><a href="https://github.com/FuchengJia1996"><img src="https://avatars.githubusercontent.com/u/75013397?v=4?s=120" width="150px;" alt=""/><br /><sub><b>Fuchen Jia(贾富城)</b></sub></a><br /></td>
 <td align="center"><a href="https://github.com/yinntag"><img src="https://avatars.githubusercontent.com/u/58064027?v=4?s=120" width="150px;" alt=""/><br /><sub><b>Yin Tang(唐寅)</b></sub></a><br /></td>
-<td align="center"><a href="https://github.com/ZXiiiC"><img src="https://avatars.githubusercontent.com/u/72813202?v=4?s=120" width="150px;" alt=""/><br /><sub><b>Xichen Zhang(张熙铖)</b></sub></a><br /></td>
+<td align="center"><a href="https://github.com/ZXiiiC"><img src="https://avatars.githubusercontent.com/u/72813202?v=4?s=120" width="150px;" alt=""/><br /><sub><b>Xicheng Zhang(张熙铖)</b></sub></a><br /></td>
 </tr>
 </table>
-
 
 <table>
 <tr>
