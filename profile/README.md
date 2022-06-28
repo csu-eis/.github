@@ -5,11 +5,17 @@
 This research group is devoted to the research on the intelligent application of mobile systems such as mobile phones and watches. The main research is how to deploy machine learning models with high computing power requirements, such as deep learning, to terminals and edge terminals. Through cooperation with Microsoft Asian Research Institute, an edge computing-based action recognition and skeleton calibration system has been designed. The research group currently has 3 doctoral students and 8 master students. The research group has 1 doctoral student index and 3 master student index every year. Students majoring in computer science and technology, communication engineering, and big data are welcome to apply. The research group also welcomes senior undergraduates who are interested in scientific research.Students who volunteer to join the research group please send their resumes to my mailbox，zdy876@csu.edu.cn.
 
 ### News
-[2022-06-10 ] Our paper has been accepted at MobiCom 2022. Congratulations to Jinrui, Huan, and Bangwen!
+[2022-06-25] Yin Tang and Renji Zhang will enroll as Ph.D students. Wei Huang, Yunhao Li, Wenxin Chen will enroll as master students. Wellcome aboard!
 
-[2022-03-19] Our paper has been accepted at MobiSys 2022. Congratulations to Fucheng!
+[2022-06-10 ] One paper is accepted by MobiCom 2022. Congratulations to Jinrui, Huan, and Bangwen!
 
+[2022-05-25] Hunan Higher Education Teaching Achievement Award!
 
+[2022-03-19] One paper is accepted by MobiSys 2022. Congratulations to Fucheng!
+
+[2021-12-30] One paper is accepted by IEEE Transactions on Mobile Computing. Congratulations to Jinrui, Huan, Xiaohui, and FUcheng.
+
+[2021-11-01] HandInteraction3D won the first prize on the 2nd Hunan Postgraduate Artificial Intelligence Innovation Competition. Congratulations to Bangwen, Huan, Wang, and Jinrui!
 
 ### Team Members
 
