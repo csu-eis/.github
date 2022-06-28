@@ -9,7 +9,7 @@ This research group is devoted to the research on the intelligent application of
 
 [2022-06-10 ] One paper is accepted by MobiCom 2022. Congratulations to Jinrui, Huan, and Bangwen!
 
-[2022-05-25] Hunan Higher Education Teaching Achievement Award!
+[2022-05-25] Second Prize Hunan Higher Education Teaching Achievement Award!
 
 [2022-03-19] One paper is accepted by MobiSys 2022. Congratulations to Fucheng!
 
