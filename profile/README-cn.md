@@ -1,4 +1,4 @@
-# <img src="csu.gif" alt="logo" style="zoom: 5.2%;" /> **边缘智能系统组** 👋
+# <img src="csu.gif" alt="logo" style="zoom: 5.2%;" /> **边缘智能系统组**
 
 **[英文版](https://eis.mobi)**
 
