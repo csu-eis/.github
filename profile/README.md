@@ -36,19 +36,19 @@ This research group is devoted to the research on the intelligent application of
 <td align="center"><a href="https://github.com/ZJR-CSU"><img src="https://avatars.githubusercontent.com/u/25000811?v=4?s=120" width="150px;" alt=""/><br /><sub><b>Jinrui Zhang(章晋睿)</b></sub></a><br /></td>
 <td align="center"><a href="https://github.com/Rorwey"><img src="https://avatars.githubusercontent.com/u/15143806?v=4?s=120" width="150px;" alt=""/><br /><sub><b>Wei Luo(罗威)</b></sub></a><br /></td>
 <td align="center"><a href="https://github.com/FuchengJia1996"><img src="https://avatars.githubusercontent.com/u/75013397?v=4?s=120" width="150px;" alt=""/><br /><sub><b>Fuchen Jia(贾富城)</b></sub></a><br /></td>
+<td align="center"><a href="https://github.com/yinntag"><img src="https://avatars.githubusercontent.com/u/58064027?v=4?s=120" width="150px;" alt=""/><br /><sub><b>Yin Tang(唐寅)</b></sub></a><br /></td>
+</tr>
+<tr>
 <td align="center"><a href="https://github.com/ZXiiiC"><img src="https://avatars.githubusercontent.com/u/72813202?v=4?s=120" width="150px;" alt=""/><br /><sub><b>Xichen Zhang(张熙铖)</b></sub></a><br /></td>
 </tr>
 </table>
 
-
-
-
 <table>
 <tr>
 <td align="center"><a href="https://github.com/wangyanbo1993"><img src="https://avatars.githubusercontent.com/u/53209910?v=4?s=120" width="150px;" alt=""/><br /><sub><b>Yanbo Wang(王彦波)</b></sub></a><br /></td>
-<td align="center"><a href="https://github.com/wangbin1002"><img src="https://avatars.githubusercontent.com/u/26839456?v=4?s=120" width="150px;" alt=""/><br /><sub><b>Bin Wang(王斌)</b></sub></a><br /></td>
 <td align="center"><a href="https://github.com/xumucong"><img src="https://avatars.githubusercontent.com/u/29012078?v=4?s=120" width="150px;" alt=""/><br /><sub><b>Mucong Xu(徐慕聪)</b></sub></a><br /></td>
 <td align="center"><a href="https://github.com/OrangeFower"><img src="https://avatars.githubusercontent.com/u/50410627?v=4?s=120" width="150px;" alt=""/><br /><sub><b>En Cheng(成恩)</b></sub></a><br /></td>
+<td align="center"><a href="https://github.com/wangbin1002"><img src="https://avatars.githubusercontent.com/u/26839456?v=4?s=120" width="150px;" alt=""/><br /><sub><b>Bin Wang(王斌)</b></sub></a><br /></td>
 <td align="center"><a href="https://github.com/BangwenHe"><img src="https://avatars.githubusercontent.com/u/32662175?v=4?s=120" width="150px;" alt=""/><br /><sub><b>Bangwen He(何榜文)</b></sub></a><br /></td>
 </tr>
 <tr>
@@ -60,5 +60,6 @@ This research group is devoted to the research on the intelligent application of
 </tr>
 <tr>
 <td align="center"><a href="https://github.com/Storagebox828"><img src="https://avatars.githubusercontent.com/u/102845669?v=4?s=120" width="150px;" alt=""/><br /><sub><b>Wenxin Chen(陈温昕)</b></sub></a><br /></td>
+<td align="center"><a href="https://github.com/hwalg2202"><img src="https://avatars.githubusercontent.com/u/108312923?v=4?s=120" width="150px;" alt=""/><br /><sub><b>Wei Huang(黄维)</b></sub></a><br /></td>
 </tr>
 </table>
