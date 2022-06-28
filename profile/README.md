@@ -13,7 +13,7 @@ This research group is devoted to the research on the intelligent application of
 
 [2022-03-19] One paper is accepted by MobiSys 2022. Congratulations to Fucheng!
 
-[2021-12-30] One paper is accepted by IEEE Transactions on Mobile Computing. Congratulations to Jinrui, Huan, Xiaohui, and FUcheng.
+[2021-12-30] One paper is accepted by IEEE Transactions on Mobile Computing. Congratulations to Jinrui, Huan, Xiaohui, and Fucheng.
 
 [2021-11-01] HandInteraction3D won the first prize on the 2nd Hunan Postgraduate Artificial Intelligence Innovation Competition. Congratulations to Bangwen, Huan, Wang, and Jinrui!
 
