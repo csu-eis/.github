@@ -1,17 +1,19 @@
-login,role,en_name,cn_name,uid
-ZJR-CSU,doctor,Jinrui Zhang,ÕÂ½úî£,25000811
-Rorwey,doctor,Wei Luo,ÂŞÍş,15143806
-FuchengJia1996,doctor,Fuchen Jia,¼Ö¸»³Ç,75013397
-ZXiiiC,doctor,Xichen Zhang,ÕÅÎõîñ,72813202
-wangyanbo1993,master,Yanbo Wang,ÍõÑå²¨,53209910
-wangbin1002,master,Bin Wang,Íõ±ó,26839456
-xumucong,master,Mucong Xu,ĞìÄ½´Ï,29012078
-OrangeFower,master,En Cheng,³É¶÷,50410627
-BangwenHe,master,Bangwen He,ºÎ°ñÎÄ,32662175
-Geeksun2018,master,Wang Sun,ËïÍú,42086593
-SheepHuan,master,Huan Yang,Ñî»¶,48245110
-TsaiVikin,master,Weijun Cai,²ÌÎ¬¾ı,78303554
-chenzhuoer,master,Zhuoer Chen,³Â×¿¶û,82086797
-chestnut0912,master,Yunhao Li,ÀîÔÆğ©,76651653
-Storagebox828,master,Wenxin Chen,³ÂÎÂê¿,102845669
-Deyujonney,mentor,Deyu Zhang,ÕÅµÂÓî,38066171
+login,role,en_name,cn_name,uid,grade
+ZJR-CSU,doctor,Jinrui Zhang,ÕÂ½úî£,25000811,2018
+Rorwey,doctor,Wei Luo,ÂŞÍş,15143806,2020
+FuchengJia1996,doctor,Fuchen Jia,¼Ö¸»³Ç,75013397,2021
+ZXiiiC,doctor,Xichen Zhang,ÕÅÎõîñ,72813202,2023
+yinntag,doctor,Yin Tang,ÌÆÒú,58064027,2022
+wangyanbo1993,master,Yanbo Wang,ÍõÑå²¨,53209910,2018
+wangbin1002,master,Bin Wang,Íõ±ó,26839456,2021
+xumucong,master,Mucong Xu,ĞìÄ½´Ï,29012078,2020
+OrangeFower,master,En Cheng,³É¶÷,50410627,2020
+BangwenHe,master,Bangwen He,ºÎ°ñÎÄ,32662175,2021
+Geeksun2018,master,Wang Sun,ËïÍú,42086593,2021
+SheepHuan,master,Huan Yang,Ñî»¶,48245110,2021
+TsaiVikin,master,Weijun Cai,²ÌÎ¬¾ı,78303554,2021
+chenzhuoer,master,Zhuoer Chen,³Â×¿¶û,82086797,2021
+chestnut0912,master,Yunhao Li,ÀîÔÆğ©,76651653,2022
+Storagebox828,master,Wenxin Chen,³ÂÎÂê¿,102845669,2022
+hwalg2202,master,Wei Huang,»ÆÎ¬,108312923,2022
+Deyujonney,mentor,Deyu Zhang,ÕÅµÂÓî,38066171,0
