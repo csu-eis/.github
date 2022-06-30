@@ -2,7 +2,7 @@
 
 **[英文版](https://eis.mobi)**
 
-**[visit our github orgnization](https://github.com/csu-eis)**
+**[Github主页](https://github.com/csu-eis)**
 
 ## 团队介绍
 
