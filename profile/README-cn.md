@@ -32,7 +32,7 @@
 
 <table>
 <tr>
-<td align="center"><a href="https://github.com/Deyujonney"><img src="https://avatars.githubusercontent.com/u/38066171?v=4?s=120" width="150px;" alt=""/><br /><sub><b>Deyu Zhang(张德宇)</b></sub></a><br /></td>
+<td align="center"><a href="https://github.com/Deyujonney"><img src="https://avatars.githubusercontent.com/u/38066171?v=4?s=120" width="200px;" alt=""/><br /><sub><b>Deyu Zhang(张德宇)</b></sub></a><br /></td>
 </tr>
 </table>
 
