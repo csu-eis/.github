@@ -36,7 +36,7 @@ This research group is devoted to the research on the intelligent application of
 ### Members
 <table>
 <tr>
-<td align="center"><a href="https://github.com/ZJR-CSU"><img src="https://avatars.githubusercontent.com/u/25000811?v=4?s=120" width="150px;" alt=""/><br /><sub><b>Jinrui Zhang(章晋睿)</b></sub></a><br /></td>
+<td align="center"><a href="https://zhangjinrui1992.github.io/"><img src="https://avatars.githubusercontent.com/u/25000811?v=4?s=120" width="150px;" alt=""/><br /><sub><b>Jinrui Zhang(章晋睿)</b></sub></a><br /></td>
 <td align="center"><a href="https://github.com/Rorwey"><img src="https://avatars.githubusercontent.com/u/15143806?v=4?s=120" width="150px;" alt=""/><br /><sub><b>Wei Luo(罗威)</b></sub></a><br /></td>
 <td align="center"><a href="https://github.com/FuchengJia1996"><img src="https://avatars.githubusercontent.com/u/75013397?v=4?s=120" width="150px;" alt=""/><br /><sub><b>Fuchen Jia(贾富城)</b></sub></a><br /></td>
 <td align="center"><a href="https://github.com/yinntag"><img src="https://avatars.githubusercontent.com/u/58064027?v=4?s=120" width="150px;" alt=""/><br /><sub><b>Yin Tang(唐寅)</b></sub></a><br /></td>
