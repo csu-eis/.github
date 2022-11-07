@@ -2,12 +2,12 @@ login,role,en_name,cn_name,uid,grade,page
 zhangjinrui1992,doctor,Jinrui Zhang,ÕÂ½úî£,25000811,2018,https://zhangjinrui1992.github.io/
 Rorwey,doctor,Wei Luo,ÂŞÍş,15143806,2020,null
 FuchengJia1996,doctor,Fuchen Jia,¼Ö¸»³Ç,75013397,2021,null
-ZXiiiC,doctor,Xicheng Zhang,ÕÅÎõîñ,72813202,2023,null
 yinntag,doctor,Yin Tang,ÌÆÒú,58064027,2022,null
-wangyanbo1993,master,Yanbo Wang,ÍõÑå²¨,53209910,2018,null
-wangbin1002,master,Bin Wang,Íõ±ó,26839456,2021,null
+zhangrjcsu,doctor,Renji Zhang,ÕÅÈÊ¼ª,102800780,2022,null
+ZXiiiC,doctor,Xicheng Zhang,ÕÅÎõîñ,72813202,2023,null
 xumucong,master,Mucong Xu,ĞìÄ½´Ï,29012078,2020,null
 OrangeFower,master,En Cheng,³É¶÷,50410627,2020,null
+wangbin1002,master,Bin Wang,Íõ±ó,26839456,2021,null
 BangwenHe,master,Bangwen He,ºÎ°ñÎÄ,32662175,2021,null
 Geeksun2018,master,Wang Sun,ËïÍú,42086593,2021,null
 SheepHuan,master,Huan Yang,Ñî»¶,48245110,2021,null
@@ -16,4 +16,7 @@ chenzhuoer,master,Zhuoer Chen,³Â×¿¶û,82086797,2021,null
 chestnut0912,master,Yunhao Li,ÀîÔÆğ©,76651653,2022,null
 Storagebox828,master,Wenxin Chen,³ÂÎÂê¿,102845669,2022,null
 hwalg2202,master,Wei Huang,»ÆÎ¬,108312923,2022,null
-Deyujonney,mentor,Deyu Zhang,ÕÅµÂÓî,38066171,0,null
+666yw,master,Wei Ye,Ò¶Î°,82686393,2023,null
+weikangqi,master,Kangqi Wei,Î¤¿µçù,107830635,2023,https://weikangqi.github.io/
+tiffylong,master,Tingting long,ÁúæÃæÃ,61765707,2023,null
+Deyujonney,mentor,Deyu Zhang,ÕÅµÂÓî,38066171,0,https://deyujonney.github.io/deyu/
